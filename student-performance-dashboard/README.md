@@ -34,3 +34,12 @@ student-performance-dashboard/
 
 ## 📌 Author
 Aleem — aspiring Data & System Analyst
+
+## 📊 Student Performance Dashboard
+
+This Power BI report analyzes anonymized student data to identify dropout trends and academic performance patterns.
+
+🔗 [View Interactive Report](https://app.powerbi.com/reportEmbed?reportId=a9f82aa6-0785-413f-b483-0bde8299c719&autoAuth=true&ctid=6ad33ebb-f801-4b73-aa82-f5e6973994d3)  
+📁 [View Project Files](https://github.com/aleem-dev/DataAnalysis/tree/main/student-performance-dashboard)
+
+**Tech Stack**: SQL, Python, Power BI, DAX
