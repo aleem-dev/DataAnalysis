@@ -12,9 +12,9 @@ year = st.slider("Select Year", 1960, 2024, 2020)
 filtered = df[df["year"] == year]
 
 # Chart: Probability
-fig = px.bar(filtered, x="country", y="c_probability", title=f"Probability in {year}")
+fig = px.bar(filtered, x="country", y="probability", title=f"Probability in {year}")
 st.plotly_chart(fig)
 
 # Insight
-canada_prob = filtered[filtered["country"] == "Canada"]["c_probability"].values[0]
+canada_prob = filtered[filtered["country"] == "Canada"]["probability"].values[0]
 st.markdown(f"**Chance of being born in Canada in {year}:** {round(canada_prob*100, 2)}%")
