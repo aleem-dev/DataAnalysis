@@ -17,7 +17,7 @@ It demonstrates my skills in:
 ---
 ## Thought Process
 
-This solution reflects deliberate analytical modeling and planning, supported by exploration and research under:
+This solution reflects deliberate analytical modeling and planning, supported by exploration and research as under:
 ![problem-breakdown](https://github.com/user-attachments/assets/ae1e3f14-07b1-4033-b1de-48282f96adf6)
 
 During my pen and paper work I have identified that what columns I would required, what is shema of the tables I need, from where different columns of data will be available.  Once the required data is available, then need to use join for different table or dataframe.  Varios steps involve to arrive at world and Canada Birthrate, population mathemetic calculations. Percentage growth over year.  It looks like time series and mutliple indicator analysis.
@@ -58,7 +58,9 @@ Located under `MapleRoots/`, this project includes three solution pathways:
 
 Each approach addresses the same core problem using different tooling and techniques.
 - Link to API URL Based notebook and db : https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots/urlApproch
+    - file name: url_dsdt.ipynb
 - Link to wbgapi Based notebook and db : https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots
+    - file name: dsdt.ipynb
 - Link to web published Interactive Report : https://dataanalysis-g3wsrohpaxupblwtyevyja.streamlit.app/
   - the code, and data files for streamlite_app is in https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots
   - configuration file : https://github.com/aleem-dev/DataAnalysis/blob/main/requirements.txt
