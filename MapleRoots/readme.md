@@ -37,6 +37,8 @@ I have also had a reflection that there is an opportunity to create dropdown bas
 > These steps reflect real-world analyst challenges — transforming messy, incomplete data into actionable and interpretable insights for education policy and planning.
 
 ## Structure of Work  
+I have named this project as **MapleRoots** as it checks possibility of a person boarn in Canada or not.
+
 Located under `MapleRoots/`, this project includes three solution pathways:
 
 | Folder               | Approach Type    | Summary                                                |
@@ -46,6 +48,11 @@ Located under `MapleRoots/`, this project includes three solution pathways:
 | `streamlit_app/`     | Interactive report| Web app with sliders, dynamic charts, public link      |
 
 Each approach addresses the same core problem using different tooling and techniques.
+- Link to API URL Based notebook and db : https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots/urlApproch
+- Link to wbgapi Based notebook and db : https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots
+- Link to web published Interactive Report : https://dataanalysis-g3wsrohpaxupblwtyevyja.streamlit.app/
+  - the code, and data files for streamlite_app is in https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots
+  - configuration file : https://github.com/aleem-dev/DataAnalysis/blob/main/requirements.txt
 
 ---
 
