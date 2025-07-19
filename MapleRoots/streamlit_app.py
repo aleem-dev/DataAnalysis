@@ -5,7 +5,7 @@ import plotly.express as px
 st.title("🇨🇦 Probability of Being Born in Canada by Year")
 
 # Load preprocessed data
-df = pd.read_csv("mpl_roots.csv")  # Use your actual file
+df = pd.read_csv("MapleRoots/graphdata.csv")  # Use your actual file
 
 # Year selection
 year = st.slider("Select Year", 1960, 2024, 2020)
