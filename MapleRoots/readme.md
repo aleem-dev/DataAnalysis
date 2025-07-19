@@ -15,6 +15,26 @@ It demonstrates my skills in:
 - Clear analytic logic and storytelling
 
 ---
+## Thought Process
+
+This solution reflects deliberate analytical modeling and planning, supported by exploration and research under:
+![problem-breakdown](https://github.com/user-attachments/assets/ae1e3f14-07b1-4033-b1de-48282f96adf6)
+
+During my pen and paper work I have identified that what columns I would required, what is shema of the tables I need, from where different columns of data will be available.  Once the required data is available, then need to use join for different table or dataframe.  Varios steps involve to arrive at world and Canada Birthrate, population mathemetic calculations. Percentage growth over year.  It looks like time series and mutliple indicator analysis.
+
+I have also had a reflection that there is an opportunity to create dropdown based Country selection and slider base date slection fetured interactive report.  However I have not expanded web published report much keeping everything under the scope of the task.
+
+📁 `ResearchExplore/Concepts/`
+
+**Focus Areas:**
+- Probability modeling: coin tosses, dice, and synthetic city birth comparisons
+- World Bank API investigation: endpoint structure, pagination, query formats
+- Manual data flattening and JSON normalization
+- SQLite database creation and population for querying birth rates
+- Strategy for NaN handling: year-wise mean fill for global birth rates
+- Personal notebook sketches: visual flow of logic and assumptions
+
+> These steps reflect real-world analyst challenges — transforming messy, incomplete data into actionable and interpretable insights for education policy and planning.
 
 ## Structure of Work  
 Located under `MapleRoots/`, this project includes three solution pathways:
