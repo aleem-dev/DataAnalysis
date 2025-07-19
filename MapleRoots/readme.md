@@ -1,5 +1,3 @@
-live interactive report: https://dataanalysis-g3wsrohpaxupblwtyevyja.streamlit.app/
-
 #  Birth Probability Analysis — Canada vs World  
 ### Submission for Data and System Analyst Exercise — Delta School District  
 
