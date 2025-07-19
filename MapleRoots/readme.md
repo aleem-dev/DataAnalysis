@@ -36,6 +36,15 @@ I have also had a reflection that there is an opportunity to create dropdown bas
 
 > These steps reflect real-world analyst challenges — transforming messy, incomplete data into actionable and interpretable insights for education policy and planning.
 
+## Key Metric Logic
+For each year from **1960 to 2024**, the analysis computes:
+- **Estimated births per country**:  
+```python
+births = (birth_rate / 1000) * population
+
+```
+
+
 ## Structure of Work  
 I have named this project as **MapleRoots** as it checks possibility of a person boarn in Canada or not.
 
@@ -53,6 +62,12 @@ Each approach addresses the same core problem using different tooling and techni
 - Link to web published Interactive Report : https://dataanalysis-g3wsrohpaxupblwtyevyja.streamlit.app/
   - the code, and data files for streamlite_app is in https://github.com/aleem-dev/DataAnalysis/tree/main/MapleRoots
   - configuration file : https://github.com/aleem-dev/DataAnalysis/blob/main/requirements.txt
+
+## Submission Info
+This repository is public and accessible at: 🔗 https://github.com/aleem-dev/DataAnalysis
+
+## How to Run Locally
+View static notebooks under MapleRoots/ or MapleRoots/url_based.
 
 ---
 
@@ -83,42 +98,8 @@ This highlights Canada's relatively small share of global birth volume despite i
 
 ---
 
-## Thought Process
-
-This solution reflects deliberate analytical modeling and planning, supported by exploration and research under:
-
-📁 `ResearchExplore/Concepts/`
-
-**Focus Areas:**
-- Probability modeling: coin tosses, dice, and synthetic city birth comparisons
-- World Bank API investigation: endpoint structure, pagination, query formats
-- Manual data flattening and JSON normalization
-- SQLite database creation and population for querying birth rates
-- Strategy for NaN handling: year-wise mean fill for global birth rates
-- Personal notebook sketches: visual flow of logic and assumptions
-
-> These steps reflect real-world analyst challenges — transforming messy, incomplete data into actionable and interpretable insights for education policy and planning.
-
-
 
 ---
 
-## Key Metric Logic
-For each year from **1960 to 2024**, the analysis computes:
-- **Estimated births per country**:  
-```python
-births = (birth_rate / 1000) * population
-
-## How to Run Locally
-View static notebooks under MapleRoots/wbgapi_based or MapleRoots/url_based.
-
-## Submission Info
-This repository is public and accessible at: 🔗 https://github.com/aleem-dev/DataAnalysis
-
-Report Location:
-
-MapleRoots/dsdt.ipynb (core logic)
-
-MapleRoots/streamlit_app/streamlit_app.py (web app)
-
-Contact: aleem.shaikh.dev@gmail.com
+Contact: shaikh.aleem@gmail.com  or  ashaikh@deltaschools.ca  or  778-929-7516
+check out my code: https://aleem-dev.github.io/Portfolio/
