@@ -1,0 +1,45 @@
+OrderDate,Region,"Name of Rep for Sale (Last, First)",Item (Class and Title), Unit Cost (Unit Sale Price),Units Sold in Order
+2022-01-06,East,Jones Smith,001 Pencil,1.99,95
+2022-01-23,Central,Kivell williams,011 Binder,19.99,50
+2022-02-09,Central,JARDINE BILLIAN,001 Pencil,4.99,36
+2022-02-26,Central,Gill Jacobson,003 Pen,19.99,27
+2022-03-15,West,Sorvino Vitoni,001 Pencil,2.99,56
+2022-04-01,East,Jones Smith,011 Binder,4.99,60
+2022-04-18,Central,Andrews Kris,001 Pencil,1.99,75
+2022-05-05,Central,Jardine Billian,001 Pencil,4.99,90
+2022-05-22,West,Thomspon Rivers,001 Pencil,1.99,32
+2022-06-08,EAST,Jones Smith,011 Binder,8.99,60
+2022-06-25,Central,Morgan John,001 Pencil,4.99,90
+2022-07-12,Easte,Howard Kip,011 Binder,1.99,29
+2022-07-29,EAST,Parent Nance,011 Binder,19.99,81
+2022-08-15,Eastt,Jones Frances,001 Pencil,4.99,35
+2022-09-01,Central,Smith Abraham,011 Desk,125.0,2
+2022-09-18,East,Jones Smith,006 Pen Set,15.99,16
+2022-10-05,Central,Morgan John,011 Binder,8.99,28
+2022-10-22,East,Jones Smith,003 Pen,8.99,64
+2022-11-08,East,Parent Nance,003 Pen,19.99,15
+2022-11-25,East,Kivell Williams,006 Pen Set,4.99,96
+2022-12-12,Central,Smith Abraham,001 Pencil,1.29,67
+2022-12-29,East,Parent Nance,006 Pen Set,15.99,74
+2023-01-15,Central,Gill Jacobson,011 Binder,8.99,46
+2023-02-01,Central,Smith Abraham,011 Binder,15.0,87
+2023-02-18,East,Jones Smith,011 Binder,4.99,4
+2023-03-07,West,Sorvino Vitoni,011 Binder,19.99,7
+2023-03-24,Central,Jardine Billian,006 Pen Set,4.99,50
+2023-04-10,Central,Andrews Kris,001 Pencil,1.99,66
+2023-04-27,East,Howard Kip,003 Pen,4.99,96
+2023-05-14,Central,Gill Jacobson,001 Pencil,1.29,53
+2023-05-31,Central,Gill Jacobson,011 Binder,8.99,80
+2023-06-17,Central,Kivell Williams,011 Desk,125.0,5
+2023-07-04,East,Jones Smith,006 Pen Set,4.99,62
+2023-07-21,Central,Morgan John,006 Pen Set,12.49,55
+2023-08-07,Central,Kivell Williams,006 Pen Set,23.95,42
+2023-08-24,West,Sorvino Vitoni,011 Desk,275.0,3
+2023-09-10,Central,Gill Jacobson,001 Pencil,1.29,7
+2023-09-27,West,Sorvino Vitoni,003 Pen,1.99,76
+2022-09-18,East,Jones Smith,006 Pen Set,15.99,16
+2023-10-14,West,Thomspon Rivers,011 Binder,19.99,57
+2023-10-31,Central,Andrews Kris,001 Pencil,1.29,14
+2023-11-17,Central,Jardine Billian,011 Binder,4.99,11
+2023-12-04,Central,Jardine Billian,011 Binder,19.99,94
+2023-12-21,Central,Andrews Kris,011 Binder,4.99,28

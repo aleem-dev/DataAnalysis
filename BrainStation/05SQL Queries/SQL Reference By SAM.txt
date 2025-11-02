@@ -1,0 +1,6 @@
+https://www.sql-easy.com/
+https://sqlzoo.net/wiki/SQL_Tutorial
+https://www.w3schools.com/sql/sql_exercises.asp
+https://leetcode.com/studyplan/top-sql-50/
+
+https://medium.com/data-science/solving-data-problems-22ab8ac792bd

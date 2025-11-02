@@ -1,0 +1,16 @@
+﻿Column A,Column B,Column C,,,,,,,
+Metric,Value,column Ref,,,,Personas,Criteria,Note,Count
+Average of Purchase amount,59.76435897,$B$3,,,,Young Budget Shoppers,"Age < 30, Spend < Low Spend, Purchase Count > High Frequency",total quantity between 10 and 18,168
+Median Total Spend,1494.108974,$B$4,,,,Loyal High Spenders,"Age between 40–60, Spend > High Spend, Subscribed",,158
+Stdev Total Spend,863.4231748,$B$5,,,,Occasional Deal Seekers,"Purchase Count < Low Frequency, Spend < Low, Unsubscribed",,858
+Median Total Purchase Count,26,$B$6,,,,,,,
+STDEV Total Purchase Count,14.44712517,$B$7,,,,,,,
+,,,,,,,,,
+Low Spend,1062.397387,$B$9,,,,,,,
+High Spend,1925.820562,$B$10,,,,,,,
+Moderate spend,between above two,,,,,,,,
+Low Frequency,18.77643741,$B$12,,,,,,,
+High Frequency,33.22356259,$B$13,,,,,,,
+,,,,,,,,,
+Low limit,Median - 0.5*STDEV,,,,,,,,
+High Limit,Median + 0.5*STDEV,,,,,,,,

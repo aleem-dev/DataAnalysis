@@ -1,0 +1,96 @@
+Challenge Questions
+Level I Questions
+How many businesses are there in the dataset?
+Ans: 10000
+
+What is the maximum and minimum number of reviews a business has gotten?
+Ans: Max Reviews - 1241 and Min - 3
+
+What is the average number of stars given to business?
+Ans: 3.5 average number of stars
+
+What is the total number of reviews given in this dataset?
+Ans: 211813
+
+Level II Questions
+What are all the unique categories in this dataset?
+Ans: 703
+
+List all the unique cities in this dataset
+Ans: Albany	Amesbury	Andover	Arlington	Athol	Attleboro	Barnstable	Berkley	Beverly	Billerica	Binghamton	Boston	Bourne	Bridgewater	Brockton	Brookline	Buffalo	Burlington	Cambridge	Canandaigua	Chatham	City-of-B0st0n	Clinton Town	Cooperstown	Cortland	Cummington	Danvers	Dollard-Des Ormeaux	Dunstable	East Buffalo	East Rochester	Edgartown	Elmira	Fall River	Falmouth	Fitchburg	Framingham	Glens Falls	Great Barrington	Haverhill	Hingham	Holyoke	Huntington	Ithaca	Jackson	Lake George	Lenox	Leominster	Levittown	Lowell	Malden	Mamaroneck	Manhattan	Marlborough	Methuen	Montauk	Mount Washington	Natick	New Bedford	New Paltz	New Rochelle	New Rochelle East	Newark	Newburgh	Newburyport	Niagara Falls	Northampton	Norwood	Oneonta	Orange	Oswego	Peabody	Peekskill	Pembroke	Pepperell	Pittsfield	Plattsburgh	Plymouth	Poughkeepsie	Princeton	Queens	Quincy	Revere	Rhinebeck	Rochester	Rosemere	Saint Laurent	Saint-Jerome	Salem	Scarsdale	Smithtown	Somerset	Somerville	Stoughton	Syracuse	Taunton	The Brox	Utica	Valley Stream	Waltham	Wareham	Watertown	Wellesley	Westborough	Weymouth	Wilmington	Winchester	Worcester	Wrentham	Yonkers
+
+What are the top five most popular categories (listed most often)?
+Ans: based on stars - Restaurants, Food, Shopping, Beauty & Spas, Coffee & Tea
+based on review - Restaurants, Food, Japanese, Nightlife, Chinese
+
+
+Throughout this module, you've learned various tools and methods of analysis, which can be applied to answer these questions. Level III and IV questions require you to do some individual research to approach the problems at this stage.
+
+Level III Questions
+For each state in the dataset, calculate:
+The number of businesses
+Ans: Massachusetts	2186
+New Jersey	245
+New York	7569
+
+The total number of reviews - 
+Ans:
+Massachusetts		39148
+New Jersey		4210
+New York		168455
+
+What is the average and standard deviation of stars broken down by state? Discuss your results.
+Ans:
+Row Labels	Count of id	Sum of review_count	Average of stars	StdDev of stars
+Massachusetts	2186	39148	3.7	0.80
+New Jersey	245	4210	3.4	0.94
+New York	7569	168455	3.5	0.89
+Help need to discuss the results.
+
+Level IV Questions
+What are the top five categories in terms of average stars broken down by state? Are they related?
+Ans:
+Massachusetts	5
+Newspapers & Magazines	5
+Shoe Repair	5
+Plumbing	5
+Butcher	5
+Special Education	5
+
+New Jersey	4.71875
+Photography Stores & Services	5
+Shoe Repair	5
+Professional Services	5
+Cosmetic Dentists	5
+Health & Medical	5
+
+New York	5
+Meditation Centers	5
+Real Estate Agents	5
+Pediatricians	5
+Beaches	5
+Yelp Events	5
+
+No they are not related.
+
+Is there a significant difference between ratings of different states? How would it affect your decision to where a new restaurant should be opened?
+Ans: No there is no significant difference between ratings of different states hence it could not be a solid data point.
+Row Labels	Average of stars
+Massachusetts	
+	Restaurants	3.668049793
+New Jersey	
+	Restaurants	3.427272727
+New York	
+	Restaurants	3.357450474
+Grand Total	3.447879859
+
+Which categories are the most common (top 3) in the North East coast's most populated city? Why do you think this is so?
+Ans:
+Row Labels	Sum of review_count
+Queens	592
+Restaurants	130
+Bakeries	45
+Canadian (New)	44
+Food	37
+
+Based on the number of review, it seems like Restaurants, Bakeries, and Food are top three categories.
